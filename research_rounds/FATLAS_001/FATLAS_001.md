@@ -137,33 +137,19 @@ This broader question may help determine whether abdominal fat accumulation is p
 
 ### Human-Readable Reports
 
-- [FATLAS Research Briefing](FATLAS_research_briefing.md)
+- [FATLAS Research Briefing](FATLAS_001_research_briefing.md)
 
 ### Coordinator Output
 
-- [Research Coordinator Synthesis](research_coordinator_synthesis.json)
+- [Research Coordinator Synthesis](FATLAS_001_research_coordinator_synthesis.json)
 
 ### Specialist Agent Reports
 
-- [Hormone Signaling Agent](hormone_signaling_agent.json)
-- [Genetics & Epigenetics Agent](genetics_and_epigenetics_agent.json)
-- [Gut Microbiome Agent](gut_microbiome_agent.json)
-- [Inflammation & Immune Agent](inflammation_and_immune_agent.json)
-- [Aging & Metabolic Change Agent](aging_and_metabolic_change_agent.json)
-
----
-
-## Notes on File Naming
-
-The files currently linked above use the original FATLAS notebook output names.
-
-Future rounds should use the standardized round-number naming format, for example:
-
-- FATLAS_002_research_briefing.md
-- FATLAS_002_research_coordinator_synthesis.json
-- FATLAS_002_hormone_signaling_agent.json
-
-This will make future research rounds easier to archive, compare, and present.
+- [Hormone Signaling Agent](FATLAS_001_hormone_signaling_agent.json)
+- [Genetics & Epigenetics Agent](FATLAS_001_genetics_and_epigenetics_agent.json)
+- [Gut Microbiome Agent](FATLAS_001_gut_microbiome_agent.json)
+- [Inflammation & Immune Agent](FATLAS_001_inflammation_and_immune_agent.json)
+- [Aging & Metabolic Change Agent](FATLAS_001_aging_and_metabolic_change_agent.json)
 
 ---
 
