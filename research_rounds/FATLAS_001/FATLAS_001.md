@@ -26,16 +26,12 @@ The round focused on identifying major biological mechanisms, converging pattern
 
 ## AI Research Team
 
-FATLAS-001 used the following AI agents:
-
 - Hormone Signaling Agent
 - Genetics & Epigenetics Agent
 - Gut Microbiome Agent
 - Inflammation & Immune Agent
 - Aging & Metabolic Change Agent
 - Research Coordinator Agent
-
-Each specialist agent investigated one domain and reported findings to the Research Coordinator Agent, which synthesized the results into a unified research briefing.
 
 ---
 
@@ -58,62 +54,57 @@ The Coordinator Agent concluded that visceral fat accumulation is likely driven 
 
 Preferential visceral fat accumulation may be driven by a self-perpetuating cycle involving altered adipocyte sensitivity to insulin and glucocorticoids, chronic low-grade inflammation, gut microbiome disruption, age-related hormonal changes, and genetic predisposition.
 
-In plain language, the body may not simply be “choosing” to store fat in the abdomen. Instead, abdominal fat cells may respond differently to hormonal and inflammatory signals than fat cells elsewhere in the body.
+In plain language, the body may not simply be choosing to store fat in the abdomen. Instead, abdominal fat cells may respond differently to hormonal and inflammatory signals than fat cells elsewhere in the body.
 
 ---
 
-## Major Findings
+## Key Findings
 
-### 1. Insulin Resistance & Hyperinsulinemia
+### Insulin Resistance & Hyperinsulinemia
 
 Insulin resistance appeared as one of the strongest converging pathways. When the body becomes less responsive to insulin, it may compensate by producing more insulin. This elevated insulin environment may promote fat storage and reduce fat breakdown, particularly in metabolically vulnerable fat depots.
 
-### 2. Cortisol and Local Glucocorticoid Signaling
+### Cortisol and Local Glucocorticoid Signaling
 
-Chronic stress signaling and cortisol activity appeared as a major area of interest. The Coordinator identified 11β-HSD1 as an important enzyme because it can amplify active cortisol locally within adipose tissue. This may help explain why some abdominal fat depots behave differently than others.
+Chronic stress signaling and cortisol activity appeared as a major area of interest. The Coordinator identified 11β-HSD1 as an important enzyme because it can amplify active cortisol locally within adipose tissue.
 
-### 3. Chronic Low-Grade Inflammation
+### Chronic Low-Grade Inflammation
 
 Inflammation was identified as both a possible cause and consequence of visceral fat accumulation. Enlarged or dysfunctional fat cells can attract immune cells, which may increase inflammatory signaling and worsen metabolic dysfunction.
 
-### 4. Adipocyte Dysfunction & Fibrosis
+### Adipocyte Dysfunction & Fibrosis
 
-The agents identified adipocyte dysfunction as a key issue. As fat cells enlarge and become stressed, surrounding tissue may stiffen through fibrosis. This can reduce healthy expansion and worsen local inflammation.
+As fat cells enlarge and become stressed, surrounding tissue may stiffen through fibrosis. This can reduce healthy expansion and worsen local inflammation.
 
-### 5. Aging, Hormonal Shifts, and Senescence
+### Aging, Hormonal Shifts, and Senescence
 
-Aging-related changes, including declining sex hormones, mitochondrial dysfunction, and senescent cell activity, may increase susceptibility to abdominal fat storage. These factors may help explain why visceral fat tends to increase with age.
+Aging-related changes, including declining sex hormones, mitochondrial dysfunction, and senescent cell activity, may increase susceptibility to abdominal fat storage.
 
-### 6. Gut Microbiome Crosstalk
+### Gut Microbiome Crosstalk
 
-Gut microbiome changes may influence fat storage through inflammation, gut barrier integrity, microbial metabolites, and metabolic endotoxemia. This makes the gut-adipose connection a promising area for future investigation.
-
----
-
-## Candidate Control Points
-
-The Coordinator Agent identified several candidate areas for future research:
-
-- Improve systemic and adipose-specific insulin sensitivity
-- Investigate local cortisol amplification through 11β-HSD1
-- Reduce chronic low-grade inflammation without broad immune suppression
-- Improve gut barrier integrity
-- Study senescent cell signaling in adipose tissue
-- Investigate adipocyte-specific epigenetic regulation
-- Compare visceral and subcutaneous adipose tissue behavior
+Gut microbiome changes may influence fat storage through inflammation, gut barrier integrity, microbial metabolites, and metabolic endotoxemia.
 
 ---
 
-## Major Knowledge Gaps
+## Primary Report Files
 
-FATLAS-001 identified several unresolved scientific questions:
+Use these files first:
 
-- Why do visceral fat cells behave differently than subcutaneous fat cells?
-- What determines whether excess energy is stored around organs, under the skin, or in lower-body fat depots?
-- Which genetic and epigenetic factors influence fat storage location?
-- How do hormonal, inflammatory, gut microbiome, and aging pathways interact over time?
-- Can adipocyte programming be safely modified in adults?
-- Can unhealthy fat-storage patterns be redirected without causing systemic harm?
+- [HTML Intelligence Briefing](FATLAS_001_intelligence_briefing.html)
+- [Markdown Research Briefing](FATLAS_001_research_briefing.md)
+
+---
+
+## Supporting Data Files
+
+These JSON files are machine-readable evidence files. GitHub may not display them well on iPad, but they are still useful for archiving and future analysis.
+
+- FATLAS_001_research_coordinator_synthesis.json
+- FATLAS_001_hormone_signaling_agent.json
+- FATLAS_001_genetics_and_epigenetics_agent.json
+- FATLAS_001_gut_microbiome_agent.json
+- FATLAS_001_inflammation_and_immune_agent.json
+- FATLAS_001_aging_and_metabolic_change_agent.json
 
 ---
 
@@ -128,28 +119,6 @@ FATLAS-002 should expand beyond visceral fat alone and compare:
 The next research question should be:
 
 **What biological signals determine where excess energy is stored in the human body?**
-
-This broader question may help determine whether abdominal fat accumulation is primarily a direct storage problem, or whether it reflects failure of safer fat-storage depots elsewhere in the body.
-
----
-
-## Research Files
-
-### Human-Readable Reports
-
-- [FATLAS Research Briefing](FATLAS_001_research_briefing.md)
-
-### Coordinator Output
-
-- [Research Coordinator Synthesis](FATLAS_001_research_coordinator_synthesis.json)
-
-### Specialist Agent Reports
-
-- [Hormone Signaling Agent](FATLAS_001_hormone_signaling_agent.json)
-- [Genetics & Epigenetics Agent](FATLAS_001_genetics_and_epigenetics_agent.json)
-- [Gut Microbiome Agent](FATLAS_001_gut_microbiome_agent.json)
-- [Inflammation & Immune Agent](FATLAS_001_inflammation_and_immune_agent.json)
-- [Aging & Metabolic Change Agent](FATLAS_001_aging_and_metabolic_change_agent.json)
 
 ---
 
