@@ -1,5 +1,9 @@
 # FATLAS
 
+<p align="center">
+  <img src="FATLAS_logo.png" alt="FATLAS Logo" width="900">
+</p>
+
 ## Fat Accumulation Targeting and Localized Adipose Signaling
 
 FATLAS is an AI-assisted biomedical research initiative exploring how the human body determines where excess energy is stored and why some individuals are more prone to unhealthy abdominal fat accumulation than others.
@@ -23,8 +27,8 @@ To identify the biological mechanisms that regulate fat storage location and unc
 ## Research Rounds
 
 | Round | Topic | Status |
-|---|---|---|
-| [FATLAS-001](research_rounds/FATLAS_001/FATLAS_001.md) | Visceral Fat Signaling Pathways | Complete |
+|---------|---------|---------|
+| FATLAS-001 | Visceral Fat Signaling Pathways | Complete |
 
 ## Current Status
 
