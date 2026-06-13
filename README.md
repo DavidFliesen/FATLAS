@@ -1,10 +1,13 @@
 # FATLAS
 
-<p align="center">
-  <img src="FATLAS_logo.png" alt="FATLAS Logo" width="900">
-</p>
+![FATLAS Logo](logo/FATLAS_logo.png)
 
-## Fat Accumulation Targeting and Localized Adipose Signaling
+**Fat Accumulation Targeting and Localized Adipose Signaling**
+
+📄 **Latest Research Report**
+
+**FATLAS Report 26-01 (PDF)**  
+https://davidfliesen.github.io/FATLAS/reports/FATLAS_Report_26-01.pdf
 
 FATLAS is an AI-assisted biomedical research initiative exploring how the human body determines where excess energy is stored and why some individuals are more prone to unhealthy abdominal fat accumulation than others.
 
@@ -38,13 +41,11 @@ Future rounds will expand the research to compare visceral fat, abdominal subcut
 
 ## Repository Structure
 
-```text
-research_rounds/
-  FATLAS_001/
-notebooks/
-slides/
+research_rounds/  
+reports/  
+ipynb/  
+slides/  
 visuals/
-```
 
 ## Disclaimer
 
